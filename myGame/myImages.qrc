@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.png</file>
+        <file>images/background01.png</file>
+        <file>images/background02.png</file>
+        <file>images/box.gif</file>
+        <file>images/icon.png</file>
+        <file>images/logo.png</file>
+        <file>sound/background.mp3</file>
+        <file>sound/background01.mp3</file>
+        <file>sound/background02.mp3</file>
+        <file>sound/clearRow.mp3</file>
+    </qresource>
+</RCC>
